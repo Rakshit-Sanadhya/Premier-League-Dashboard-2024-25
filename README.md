@@ -66,9 +66,7 @@ and more
 
 How to Use
 
-Clone this repository:
-
-git clone https://github.com/yourusername/Premier-League-2024-25-Analysis.git
+Clone this repository
 
 Open the .pbix file in Power BI Desktop.
 
